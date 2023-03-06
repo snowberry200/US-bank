@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "967254838227",
+    "project_id": "usbee-8362f",
+    "storage_bucket": "usbee-8362f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967254838227:android:68c0ed5170e54233f7bd26",
+        "android_client_info": {
+          "package_name": "com.enkasa.usbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967254838227-8t9phgtqm6hskohbraob4rpt62csi4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXv5lLQdZYu6mUwJ9IspeCJ1gUVwQiIJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967254838227-8t9phgtqm6hskohbraob4rpt62csi4sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967254838227-97j3t7vh9jonnur5bgqhj181jv307vtc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.enkasa.usbank"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
